@@ -1,0 +1,10 @@
+* {       /* it will affect every HTML element on page*/
+    box-sizing: border-box;    /* It will give same size to the all the elements;  padding and border are included in width and height*/
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--color-bg);
+}
